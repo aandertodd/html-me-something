@@ -1,19 +1,32 @@
-html {
+body {
     background-color: pink;
+    margin-left: 10px;
 }
+
 h1{
     color: green;
 }
-main {
+
+#main-article {
     font-family: monospace;
 }
+
 p {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
 }
+
 img {
-    {
     margin: auto;
+    width:50%;
+    height:auto%;
+    border: 2px dotted blue;
+    margin-left: 25%;
+}
+.main-project{
+    border:5px solid orange;
+    margin-left: 2px;
+    padding: 10px;
 }
